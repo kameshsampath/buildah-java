@@ -6,4 +6,4 @@ NOTE: The scripts are still work in progress, please expect some changes
 
 == Building Container
 
-Please feel free to modify the link:./build-app-container.sh[build-app-container.sh]
+Please feel free to modify the link:./build-app-container.sh[buildah.sh]
